@@ -1,0 +1,46 @@
+body {
+    background-color:dodgerblue;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.wrapper {
+    width: 50%;
+    margin-inline: auto;
+}
+
+.description {
+    font-weight: 400;
+}
+
+p {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+input {
+    width: 500px;
+    height: 30px;
+    font-size: 22px;
+    display: block;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+ol li {
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 28px;
+}
